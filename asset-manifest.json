@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6475fff7.chunk.css",
+    "main.js": "/static/js/main.716081f9.chunk.js",
+    "main.js.map": "/static/js/main.716081f9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c70025b6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c70025b6.js.map",
+    "static/js/2.fb8e61be.chunk.js": "/static/js/2.fb8e61be.chunk.js",
+    "static/js/2.fb8e61be.chunk.js.map": "/static/js/2.fb8e61be.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.43ab695d03b3a8898b30e0ba9ce0a5eb.js": "/precache-manifest.43ab695d03b3a8898b30e0ba9ce0a5eb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6475fff7.chunk.css.map": "/static/css/main.6475fff7.chunk.css.map",
+    "static/js/2.fb8e61be.chunk.js.LICENSE.txt": "/static/js/2.fb8e61be.chunk.js.LICENSE.txt",
+    "static/media/Makro2.jpg": "/static/media/Makro2.45fa719a.jpg",
+    "static/media/css.png": "/static/media/css.cad2c37e.png",
+    "static/media/foto_2.jpg": "/static/media/foto_2.33eba2eb.jpg",
+    "static/media/gtb.jpg": "/static/media/gtb.c30fef5a.jpg",
+    "static/media/html.png": "/static/media/html.0fb4946d.png",
+    "static/media/jlApps.PNG": "/static/media/jlApps.ece7b504.PNG",
+    "static/media/js.png": "/static/media/js.7f9371b1.png",
+    "static/media/lerneFotografieren.PNG": "/static/media/lerneFotografieren.399add3a.PNG",
+    "static/media/myNotes.jpg": "/static/media/myNotes.e2aff7fb.jpg",
+    "static/media/ppr.jpg": "/static/media/ppr.cd329518.jpg",
+    "static/media/react.png": "/static/media/react.14c89a41.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c70025b6.js",
+    "static/js/2.fb8e61be.chunk.js",
+    "static/css/main.6475fff7.chunk.css",
+    "static/js/main.716081f9.chunk.js"
+  ]
+}
